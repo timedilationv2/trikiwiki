@@ -1,35 +1,31 @@
-████████╗██████╗ ██╗██╗  ██╗██╗    ██╗██╗██╗  ██╗
-╚══██╔══╝██╔══██╗██║██║ ██╔╝██║    ██║██║██║ ██╔╝
-   ██║   ██████╔╝██║█████╔╝ ██║ █╗ ██║██║█████╔╝ 
-   ██║   ██╔═══╝ ██║██╔═██╗ ██║███╗██║██║██╔═██╗ 
-   ██║   ██║     ██║██║  ██╗╚███╔███╔╝██║██║  ██╗
-   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═╝
--------------------------------------------------
-WELCOME TO THE CORE NETWORK
--------------------------------------------------
-TrikiWiki is a modular CLI Wiki for Hackers, Developers & Cyber Enthusiasts.
-Access: Open any .md file inside /wiki/
+# Welcome to TrikiWiki
 
-BASIC COMMANDS:
------------------------------------------------
-$ cd wiki/                    # Enter the wiki directory
-$ ls -la                      # List all modules
-$ nano [file].md              # Open a document for editing
+### About
+TrikiWiki is a structured documentation system designed for clear, organized knowledge sharing. It supports modular content, fast navigation, and collaborative updates.
 
-SYSTEM MODULES
------------------------------------------------
-- [ SYSTEM OVERVIEW ]  → wiki/Project-Overview.md
-- [ INSTALLATION ]  → wiki/Installation/
-- [ USAGE COMMANDS ]  → wiki/Usage/
-- [ API OPERATIONS ]  → wiki/API-Reference/
-- [ DEV ENVIRONMENT ]  → wiki/Development/
-- [ TROUBLESHOOTING ]  → wiki/Troubleshooting/
-- [ SYSTEM GLOSSARY ]  → wiki/Glossary.md
-- [ ROADMAP ]  → wiki/Roadmap.md
+### Navigation
+- [Project Overview](Project-Overview.md)
+- [Installation Guide](Installation/)
+- [Usage Instructions](Usage/)
+- [API Documentation](API-Reference/)
+- [Development Environment](Development/)
+- [Troubleshooting](Troubleshooting/)
+- [Best Practices](Best-Practices.md)
+- [Glossary](Glossary.md)
+- [Roadmap](Roadmap.md)
 
-HACK THE SYSTEM
------------------------------------------------
-$ git add .
-$ git commit -m "[CORE UPDATE] Documentation Expanded"
-$ git push origin main
+### Quick Commands
+Navigate the documentation:
+\`\`\`sh
+cd wiki/
+ls -la
+\`\`\`
+Edit a file:
+\`\`\`sh
+nano [file].md
+\`\`\`
+
+### Support
+For questions or issues, check the [Troubleshooting Guide](Troubleshooting/) or open an issue in the repository.
+
 

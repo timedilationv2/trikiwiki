@@ -1,36 +1,39 @@
-██╗   ██╗██╗  ██╗██╗████████╗ ██████╗ ██╗  ██╗
-██║   ██║██║  ██║██║╚══██╔══╝██╔═══██╗██║  ██║
-██║   ██║███████║██║   ██║   ██║   ██║███████║
-██║   ██║██╔══██║██║   ██║   ██║   ██║██╔══██║
-╚██████╔╝██║  ██║██║   ██║   ╚██████╔╝██║  ██║
- ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
---------------------------------------------
-WELCOME TO PROJECT TRIKI WIKI
---------------------------------------------
+## TrikiWiki - Project Documentation
 
-Hack the Docs. Expand the Network. Control the Knowledge.
-This is a cyberpunk-styled CLI wiki, designed for fast access, modular edits, and dark UI.
+### Overview
+TrikiWiki is a structured, modular wiki designed for documentation and collaboration. It provides clear, fast access to project information, technical guides, and best practices.
 
-SYSTEM MODULES
---------------------------------------------
-[ 1 ] SYSTEM OVERVIEW ........ wiki/Home.md
-[ 2 ] INSTALLATION ............ wiki/Installation/
-[ 3 ] USAGE COMMANDS .......... wiki/Usage/
-[ 4 ] API OPERATIONS .......... wiki/API-Reference/
-[ 5 ] DEV ENVIRONMENT ......... wiki/Development/
-[ 6 ] TROUBLESHOOTING ........ wiki/Troubleshooting/
-[ 7 ] SYSTEM GLOSSARY ......... wiki/Glossary.md
-[ 8 ] ROADMAP ................ wiki/Roadmap.md
+### Contents
+- **[Project Overview](wiki/Project-Overview.md)**
+- **[Installation Guide](wiki/Installation/)**
+- **[Usage Commands](wiki/Usage/)**
+- **[API Documentation](wiki/API-Reference/)**
+- **[Development Environment](wiki/Development/)**
+- **[Troubleshooting](wiki/Troubleshooting/)**
+- **[Best Practices](wiki/Best-Practices.md)**
+- **[Glossary](wiki/Glossary.md)**
+- **[Roadmap](wiki/Roadmap.md)**
 
-BOOT SYSTEM
---------------------------------------------
-To enter the Wiki:
-    $ cd wiki/
-    $ ls -la
-    $ nano [file].md
+### Quick Start
+1. Clone the repository:
+   \`\`\`sh
+   git clone https://github.com/timedilationv2/trikiwiki.git
+   cd trikiwiki
+   \`\`\`
+2. Navigate to the wiki directory:
+   \`\`\`sh
+   cd wiki/
+   ls -la
+   \`\`\`
+3. Open a file for editing:
+   \`\`\`sh
+   nano [file].md
+   \`\`\`
 
-Upload new intel:
-    $ git add .
-    $ git commit -m "[SYSTEM UPDATE] Docs Updated"
-    $ git push origin main
+### Contributing
+- Fork the repository, make edits, and submit a Pull Request.
+- Follow the [Contribution Guidelines](wiki/Development/Contribution-Guidelines.md).
+
+### License
+This project is open-source and follows the [MIT License](LICENSE).
 
