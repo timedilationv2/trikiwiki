@@ -1,3 +1,5 @@
+[🔙 Back to Main Menu](../README.md)
+
 # Contributing to TrikiWiki
 
 ## How to Contribute

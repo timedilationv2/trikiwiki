@@ -1,3 +1,5 @@
+[🔙 Back to Main Menu](../README.md)
+
 # Troubleshooting
 
 ## Common Errors and Fixes  

@@ -1,3 +1,5 @@
+[🔙 Back to Main Menu](../README.md)
+
 # Installation Guide
 
 ## Clone the Repository
