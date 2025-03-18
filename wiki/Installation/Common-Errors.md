@@ -1,3 +1,3 @@
-[🔙 Back to Main Menu](../README.md)
+[🔙 Back to Main Menu](../../README.md)
 
 # Common Installation Errors

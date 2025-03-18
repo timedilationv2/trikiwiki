@@ -1,4 +1,4 @@
-[🔙 Back to Main Menu](../README.md)
+[🔙 Back to Main Menu](../../README.md)
 
 # Contributing to TrikiWiki
 
