@@ -1,15 +1,36 @@
-## 📚 ProjectTrickyWiki  
+██╗   ██╗██╗  ██╗██╗████████╗ ██████╗ ██╗  ██╗
+██║   ██║██║  ██║██║╚══██╔══╝██╔═══██╗██║  ██║
+██║   ██║███████║██║   ██║   ██║   ██║███████║
+██║   ██║██╔══██║██║   ██║   ██║   ██║██╔══██║
+╚██████╔╝██║  ██║██║   ██║   ╚██████╔╝██║  ██║
+ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+--------------------------------------------
+WELCOME TO PROJECT TRIKI WIKI
+--------------------------------------------
 
-This project includes a structured wiki for documentation.  
+Hack the Docs. Expand the Network. Control the Knowledge.
+This is a cyberpunk-styled CLI wiki, designed for fast access, modular edits, and dark UI.
 
-📌 **Wiki Contents:**  
-- [Project Overview](wiki/Project-Overview.md)  
-- [Installation Guide](wiki/Installation-Guide.md)  
-- [Development Workflow](wiki/Development-Workflow.md)  
-- [API Documentation](wiki/API-Documentation.md)  
-- [Troubleshooting](wiki/Troubleshooting.md)  
-- [Best Practices](wiki/Best-Practices.md)  
-- [Glossary](wiki/Glossary.md)  
+SYSTEM MODULES
+--------------------------------------------
+[ 1 ] SYSTEM OVERVIEW ........ wiki/Home.md
+[ 2 ] INSTALLATION ............ wiki/Installation/
+[ 3 ] USAGE COMMANDS .......... wiki/Usage/
+[ 4 ] API OPERATIONS .......... wiki/API-Reference/
+[ 5 ] DEV ENVIRONMENT ......... wiki/Development/
+[ 6 ] TROUBLESHOOTING ........ wiki/Troubleshooting/
+[ 7 ] SYSTEM GLOSSARY ......... wiki/Glossary.md
+[ 8 ] ROADMAP ................ wiki/Roadmap.md
 
-📖 **View Full Wiki:** [GitHub Wiki](https://github.com/timedilationv2/test/wiki)  
+BOOT SYSTEM
+--------------------------------------------
+To enter the Wiki:
+    $ cd wiki/
+    $ ls -la
+    $ nano [file].md
+
+Upload new intel:
+    $ git add .
+    $ git commit -m "[SYSTEM UPDATE] Docs Updated"
+    $ git push origin main
 
