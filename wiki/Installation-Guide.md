@@ -1,3 +1,7 @@
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
 [🔙 Back to Main Menu](../../README.md)
 
 # Installation Guide
@@ -17,4 +21,9 @@ pip install -r requirements.txt
 ```bash
 python src/main.py
 ```
+
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
 

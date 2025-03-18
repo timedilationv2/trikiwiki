@@ -1,3 +1,7 @@
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
 [🔙 Back to Main Menu](../../README.md)
 
 # TrikiWiki Documentation
@@ -34,3 +38,8 @@ nano [file].md
 ```
 
 For questions, check the [Troubleshooting Guide](Troubleshooting/) or open an issue in the repository.
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
+

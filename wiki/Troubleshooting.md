@@ -1,3 +1,7 @@
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
 [🔙 Back to Main Menu](../../README.md)
 
 # Troubleshooting
@@ -17,4 +21,9 @@ git remote set-url origin git@github.com:timedilationv2/test.git
 ```bash
 touch src/__init__.py
 ```
+
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
 

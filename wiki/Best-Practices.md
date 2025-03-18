@@ -1,3 +1,7 @@
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
 [🔙 Back to Main Menu](../../README.md)
 
 # Best Practices
@@ -16,5 +20,10 @@
 - Keep README and wiki updated.
 - Document API endpoints and workflows.
 - Use consistent markdown formatting.
+
+
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
 
 

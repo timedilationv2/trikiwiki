@@ -1,3 +1,7 @@
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
 [🔙 Back to Main Menu](../../README.md)
 
 # Sidebar Navigation
@@ -50,3 +54,8 @@
 - [Best Practices](Best-Practices.md)
 - [Glossary](Glossary.md)
 - [Roadmap](Roadmap.md)
+
+
+<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+
+
