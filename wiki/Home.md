@@ -1,31 +1,34 @@
-# Welcome to TrikiWiki
+# TrikiWiki Documentation
 
-### About
-TrikiWiki is a structured documentation system designed for clear, organized knowledge sharing. It supports modular content, fast navigation, and collaborative updates.
+## Overview
+TrikiWiki provides structured, high-quality documentation for projects that require clarity and collaboration. It follows a professional wiki-style format with features such as collapsible navigation, internal linking, and search functionality.
 
-### Navigation
+## Navigation
 - [Project Overview](Project-Overview.md)
 - [Installation Guide](Installation/)
 - [Usage Instructions](Usage/)
 - [API Documentation](API-Reference/)
-- [Development Environment](Development/)
+- [Development Guide](Development/)
 - [Troubleshooting](Troubleshooting/)
 - [Best Practices](Best-Practices.md)
 - [Glossary](Glossary.md)
 - [Roadmap](Roadmap.md)
 
-### Quick Commands
-Navigate the documentation:
-\`\`\`sh
+## Features
+- Lightweight & Fast: Minimal design for fast access
+- Search & Filtering: Find relevant topics quickly
+- Collapsible Sidebar: Intuitive navigation structure
+- Markdown-based: Easy to edit and contribute
+
+## Getting Started
+To browse the documentation:
+```sh
 cd wiki/
 ls -la
-\`\`\`
-Edit a file:
-\`\`\`sh
+```
+To edit a file:
+```sh
 nano [file].md
-\`\`\`
+```
 
-### Support
-For questions or issues, check the [Troubleshooting Guide](Troubleshooting/) or open an issue in the repository.
-
-
+For questions, check the [Troubleshooting Guide](Troubleshooting/) or open an issue in the repository.
