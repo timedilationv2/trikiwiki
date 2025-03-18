@@ -1,61 +1,30 @@
+# Project Overview  
 
+<p align="center" style="background-color:#2C3E50; padding: 10px; border-radius: 5px; color: white;">
+  <strong>Navigation</strong>
+</p>
 
-<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+<p align="center">
+  <a href="Installation-Guide.md" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#3498DB; color: white; text-decoration: none; border-radius: 5px;">Installation Guide</a>
+  <a href="Features.md" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#E74C3C; color: white; text-decoration: none; border-radius: 5px;">Features</a>
+  <a href="Usage/" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#2ECC71; color: white; text-decoration: none; border-radius: 5px;">Usage Guide</a>
+</p>
 
-[🔙 Back to Main Menu](../../README.md)
+---
 
-# Sidebar Navigation
+## Overview  
 
-## Contents
-<details>
-<summary>Installation</summary>
-- [Quick Start Guide](Installation/Quick-Start-Guide.md)
-- [Full Installation](Installation/Full-Installation.md)
-- [System Requirements](Installation/System-Requirements.md)
-- [Common Errors](Installation/Common-Errors.md)
-</details>
+This section contains details about the project, its goals, and core functionalities.
 
-<details>
-<summary>Usage</summary>
-- [Basic Commands](Usage/Basic-Commands.md)
-- [Advanced Usage](Usage/Advanced-Usage.md)
-- [Configuration](Usage/Configuration.md)
-- [Customization](Usage/Customization.md)
-</details>
+## Key Features  
 
-<details>
-<summary>API Reference</summary>
-- [API Overview](API-Reference/API-Overview.md)
-- [Authentication](API-Reference/Authentication.md)
-- [Reading Data](API-Reference/Endpoints/Read-Data.md)
-- [Writing Data](API-Reference/Endpoints/Write-Data.md)
-- [Deleting Data](API-Reference/Endpoints/Delete-Data.md)
-- [Webhooks](API-Reference/Webhooks.md)
-- [Rate Limits](API-Reference/Rate-Limits.md)
-</details>
+- Structured documentation
+- Easy navigation with corporate-styled buttons
+- Markdown-based but enhanced with HTML styling
 
-<details>
-<summary>Development</summary>
-- [Contribution Guidelines](Development/Contribution-Guidelines.md)
-- [Code Structure](Development/Code-Structure.md)
-- [Dev Environment Setup](Development/Dev-Environment.md)
-- [Debugging Guide](Development/Debugging.md)
-- [Testing and CI/CD](Development/Testing.md)
-</details>
+---
 
-<details>
-<summary>Troubleshooting</summary>
-- [Common Issues](Troubleshooting/Common-Issues.md)
-- [Performance Optimization](Troubleshooting/Performance-Issues.md)
-- [Security Best Practices](Troubleshooting/Security-Issues.md)
-</details>
-
-## Other Resources
-- [Best Practices](Best-Practices.md)
-- [Glossary](Glossary.md)
-- [Roadmap](Roadmap.md)
-
-
-<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
-
+<p align="center">
+  <a href="https://github.com/timedilationv2/trikiwiki/wiki" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#F39C12; color: white; text-decoration: none; border-radius: 5px;">Back to Main Menu</a>
+</p>
 

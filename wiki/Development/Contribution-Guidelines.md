@@ -1,42 +1,30 @@
+# Project Overview  
 
+<p align="center" style="background-color:#2C3E50; padding: 10px; border-radius: 5px; color: white;">
+  <strong>Navigation</strong>
+</p>
 
-<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+<p align="center">
+  <a href="Installation-Guide.md" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#3498DB; color: white; text-decoration: none; border-radius: 5px;">Installation Guide</a>
+  <a href="Features.md" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#E74C3C; color: white; text-decoration: none; border-radius: 5px;">Features</a>
+  <a href="Usage/" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#2ECC71; color: white; text-decoration: none; border-radius: 5px;">Usage Guide</a>
+</p>
 
-[🔙 Back to Main Menu](../../README.md)
+---
 
-# Contributing to TrikiWiki
+## Overview  
 
-## How to Contribute
-1. Fork the repository on GitHub.
-2. Clone your fork:
-   ```sh
-   git clone https://github.com/your-username/trikiwiki.git
-   cd trikiwiki
-   ```
-3. Create a new branch:
-   ```sh
-   git checkout -b feature-name
-   ```
-4. Make your changes inside `wiki/`
-5. Commit & push:
-   ```sh
-   git commit -m "[Docs] Updated feature X"
-   git push origin feature-name
-   ```
-6. Submit a Pull Request (PR).
+This section contains details about the project, its goals, and core functionalities.
 
-## Code Guidelines
-- Keep documentation clear and structured.
-- Follow the existing content layout for consistency.
-- Use markdown best practices for readability.
+## Key Features  
 
-## Reporting Issues
-- If you find a bug or need clarification, open an issue in the GitHub repository.
+- Structured documentation
+- Easy navigation with corporate-styled buttons
+- Markdown-based but enhanced with HTML styling
 
-## Contact
-For further discussions, use GitHub Issues or Discussions.
+---
 
-
-<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
-
+<p align="center">
+  <a href="https://github.com/timedilationv2/trikiwiki/wiki" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#F39C12; color: white; text-decoration: none; border-radius: 5px;">Back to Main Menu</a>
+</p>
 

@@ -1,45 +1,30 @@
+# Project Overview  
 
+<p align="center" style="background-color:#2C3E50; padding: 10px; border-radius: 5px; color: white;">
+  <strong>Navigation</strong>
+</p>
 
-<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
+<p align="center">
+  <a href="Installation-Guide.md" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#3498DB; color: white; text-decoration: none; border-radius: 5px;">Installation Guide</a>
+  <a href="Features.md" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#E74C3C; color: white; text-decoration: none; border-radius: 5px;">Features</a>
+  <a href="Usage/" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#2ECC71; color: white; text-decoration: none; border-radius: 5px;">Usage Guide</a>
+</p>
 
-[🔙 Back to Main Menu](../../README.md)
+---
 
-# TrikiWiki Documentation
+## Overview  
 
-## Overview
-TrikiWiki provides structured, high-quality documentation for projects that require clarity and collaboration. It follows a professional wiki-style format with features such as collapsible navigation, internal linking, and search functionality.
+This section contains details about the project, its goals, and core functionalities.
 
-## Navigation
-- [Project Overview](Project-Overview.md)
-- [Installation Guide](Installation/)
-- [Usage Instructions](Usage/)
-- [API Documentation](API-Reference/)
-- [Development Guide](Development/)
-- [Troubleshooting](Troubleshooting/)
-- [Best Practices](Best-Practices.md)
-- [Glossary](Glossary.md)
-- [Roadmap](Roadmap.md)
+## Key Features  
 
-## Features
-- Lightweight & Fast: Minimal design for fast access
-- Search & Filtering: Find relevant topics quickly
-- Collapsible Sidebar: Intuitive navigation structure
-- Markdown-based: Easy to edit and contribute
+- Structured documentation
+- Easy navigation with corporate-styled buttons
+- Markdown-based but enhanced with HTML styling
 
-## Getting Started
-To browse the documentation:
-```sh
-cd wiki/
-ls -la
-```
-To edit a file:
-```sh
-nano [file].md
-```
+---
 
-For questions, check the [Troubleshooting Guide](Troubleshooting/) or open an issue in the repository.
-
-
-<p align="center"><a href="https://github.com/timedilationv2/trikiwiki/wiki">🔙 Back to Main Menu</a></p>
-
+<p align="center">
+  <a href="https://github.com/timedilationv2/trikiwiki/wiki" style="display:inline-block; padding: 10px 15px; margin: 5px; background-color:#F39C12; color: white; text-decoration: none; border-radius: 5px;">Back to Main Menu</a>
+</p>
 
